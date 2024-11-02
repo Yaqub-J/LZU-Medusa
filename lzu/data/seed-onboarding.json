@@ -5,7 +5,12 @@
       "usd"
     ]
   },
-  "users": [],
+  "users": [
+    {
+      "email": "yaqubishaqjae@gmail.com",
+      "password": "password"
+    }
+  ],
   "regions": [
     {
       "id": "test-region-eu",

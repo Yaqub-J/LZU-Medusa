@@ -4,7 +4,7 @@ services:
     environment:
       POSTGRES_USER: admin
       POSTGRES_PASSWORD: password
-      POSTGRES_DB: medusa-db
+      POSTGRES_DB: lzu_store
     volumes:
       - postgres-db:/var/lib/postgresql/data
     ports:
